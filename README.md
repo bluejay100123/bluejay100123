@@ -1,3 +1,4 @@
+![Header](https://github.com/user-attachments/assets/f5a16ac0-85f4-4775-b1ca-363463af811e)
 <h3 align="center">👋 About Me 👋</h3>
 <p align="center">
   <b>🎓 CAU Art&Tech 19th</b>
