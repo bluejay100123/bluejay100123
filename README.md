@@ -33,7 +33,7 @@
 </p>
 
 <h3 align="center">
-  Art Stack
+  🎨 Art Stack 🎨
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>&nbsp
