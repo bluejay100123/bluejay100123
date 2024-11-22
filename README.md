@@ -25,6 +25,8 @@
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center">
