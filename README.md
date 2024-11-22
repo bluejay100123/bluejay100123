@@ -47,15 +47,15 @@
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?flat-square&logo=unity&logoColor=white"/></a>&nbsp
 </p>
 
-<p align="center">
-  <h3 align="center">📫 How to reach me</h3>
+<h3 align="center">
+  📫 How to reach me
   <br>
   <a href="mailto:yoonjekang123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
   <br>
   <br>
-  <h3 align="center">MY Social Network Account</h3>
+  MY Social Network Account
   <br>
   <a href="https://www.youtube.com/@YoonjeKang" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" alt="Youtube" />
@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/yoonje-kang123" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+</h3>
 
 <h3 align="center">
   <a href="https://github.com/bluejay100123" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@bluejay100123-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
