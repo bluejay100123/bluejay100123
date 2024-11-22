@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <h3>📫 How to reach me</h3>
+  <h3 align="center">📫 How to reach me</h3>
   <br>
   <a href="mailto:yoonjekang123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
