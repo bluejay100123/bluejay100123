@@ -11,7 +11,10 @@
 </p>
 
 <h3 align="center">
-  💻 I’m currently working on <img src="https://github.com/user-attachments/assets/018d3f6a-2ef8-4f9b-8fa4-85e0b257a4ce" width="90" height="18">
+  💻 I’m currently working on 
+  <a href="https://grlab.cau.ac.kr/">
+    <img src="https://github.com/user-attachments/assets/018d3f6a-2ef8-4f9b-8fa4-85e0b257a4ce" width="90" height="18">
+  </a>
 </h3>
 
 <h3 align="center">
