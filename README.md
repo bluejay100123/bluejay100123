@@ -53,6 +53,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=bluejay100123&show_icons=true&theme=radical" alt="YoonJe's GitHub stats">
   </a>
   <br>
+  <a href="https://github.com/bluejay100123">
+    <img src="https://github-stats-alpha.vercel.app/api?username=bluejay100123&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  </a> 
+  <br>
   <br>
   If you like what I do, maybe consider buying me a coffee/tea 🥺
   <br>
