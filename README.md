@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/></a>&nbsp 
   <br>
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=vsc&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/></a>&nbsp
 </p>
