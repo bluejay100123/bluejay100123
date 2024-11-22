@@ -8,6 +8,7 @@
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonjekang123@gmail.com)](mailto:yoonjekang123@gmail.com)
 - 🔗 SNS [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@YoonjeKang)](https://www.youtube.com/@YoonjeKang) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoonje-kang123)](https://www.linkedin.com/in/yoonje-kang123)
 
+<a href="https://github.com/bluejay100123" target="_blank"><img alt="bluejay100123" src="https://badges.pufler.dev/visits/bluejay100123/bluejay100123?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 <a href="https://github.com/bluejay100123/bluejay100123" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/bluejay100123/bluejay100123?label=profile%20updated&style=flat-square"></a>
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺
