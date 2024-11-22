@@ -29,11 +29,12 @@
 </p>
 
 <p align="center">
-👯 I’m looking to collaborate on ...&nbsp 
-🤔 I’m looking for help with ...&nbsp 
-💬 Ask me about ...&nbsp 
-📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonjekang123@gmail.com)](mailto:yoonjekang123@gmail.com)
-🔗 SNS <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@YoonjeKang" />&nbsp  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoonje-kang123)](https://www.linkedin.com/in/yoonje-kang123)
+👯 I’m looking to collaborate on ...<br>
+🤔 I’m looking for help with ...<br>
+💬 Ask me about ...<br>
+📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonjekang123@gmail.com)](mailto:yoonjekang123@gmail.com)<br>
+🔗 SNS <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@YoonjeKang" /><br>
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoonje-kang123)](https://www.linkedin.com/in/yoonje-kang123)
 </p>
 
 <a href="https://github.com/bluejay100123" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@bluejay100123-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
