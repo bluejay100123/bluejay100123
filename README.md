@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-- 💻 I’m currently working on  <img src="https://github.com/user-attachments/assets/018d3f6a-2ef8-4f9b-8fa4-85e0b257a4ce" width="90" height="18">
+- 💻 I’m currently working on
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/018d3f6a-2ef8-4f9b-8fa4-85e0b257a4ce" width="90" height="18">
+</div>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
