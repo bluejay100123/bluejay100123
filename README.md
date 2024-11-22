@@ -1,7 +1,8 @@
-<h3 align="center">👋 Hi there 👋</h3>
+<h3 align="center">👋 About Me 👋</h3>
 <p align="center">
-  <b>CAU Art&Tech 19th</b> 👩‍💻 <br>
-  <b>I'm growing everyday</b> 🌿
+  <b>🎓 CAU Art&Tech 19th</b>
+  <br>
+  <b>📈 I'm growing everyday</b>
 </p>
 
 <h3 align="center">
