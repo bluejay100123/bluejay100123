@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 💻 I’m currently working on
-<div align="center">
+<div style="margin-left: 20px;>
   <img src="https://github.com/user-attachments/assets/018d3f6a-2ef8-4f9b-8fa4-85e0b257a4ce" width="90" height="18">
 </div>
 - 🌱 I’m currently learning ...
