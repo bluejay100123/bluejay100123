@@ -70,7 +70,6 @@
 <h3 align="center">
   Github Stats
 </h3>
-
 <h3 align="center">
   <a href="https://github.com/bluejay100123" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@bluejay100123-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
   <a href="https://github.com/bluejay100123" target="_blank"><img alt="bluejay100123" src="https://badges.pufler.dev/visits/bluejay100123/bluejay100123?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
