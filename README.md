@@ -48,8 +48,10 @@
   <br>
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?flat-square&logo=figma&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?flat-square&logo=unity&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?flat-square&logo=unity&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?flat-square&logo=unity&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center">
