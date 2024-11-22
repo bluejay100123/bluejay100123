@@ -47,7 +47,11 @@
   <a href="https://github.com/bluejay100123" target="_blank"><img alt="bluejay100123" src="https://badges.pufler.dev/visits/bluejay100123/bluejay100123?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
   <a href="https://github.com/bluejay100123/bluejay100123" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/bluejay100123/bluejay100123?label=profile%20updated&style=flat-square"></a>
   <br>
-  [![YoonJe's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/bluejay100123/github-readme-stats)
+  <!-- GitHub Stats -->
+  <a href="https://github.com/bluejay100123">
+    <img src="https://github-readme-stats.vercel.app/api?username=bluejay100123&show_icons=true&theme=radical" alt="YoonJe's GitHub stats">
+  </a>
+  <br>
   <br>
   If you like what I do, maybe consider buying me a coffee/tea 🥺
   <br>
