@@ -56,7 +56,7 @@
   </a>
 </p>
 <h3 align="center">
-  MY Social Network Account
+  🔥 Follow Me! 🔥
 </h3>
 <p align="center">
   <a href="https://www.youtube.com/@YoonjeKang" target="_blank">
