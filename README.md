@@ -50,12 +50,14 @@
 <h3 align="center">
   📫 How to reach me
   <br>
+  <br>
   <a href="mailto:yoonjekang123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
   <br>
   <br>
   MY Social Network Account
+  <br>
   <br>
   <a href="https://www.youtube.com/@YoonjeKang" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" alt="Youtube" />
