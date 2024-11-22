@@ -4,9 +4,13 @@
   <b>I'm growing everyday</b> 🌿
 </p>
 
-- 💻 I’m currently working on <img src="https://github.com/user-attachments/assets/018d3f6a-2ef8-4f9b-8fa4-85e0b257a4ce" width="90" height="18">
+<h3 align="center">
+  💻 I’m currently working on <img src="https://github.com/user-attachments/assets/018d3f6a-2ef8-4f9b-8fa4-85e0b257a4ce" width="90" height="18">
+</h3>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">
+  📚 Tech Stack 📚
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
