@@ -55,7 +55,7 @@
   </a>
   <br>
   <br>
-  MY Social Network Account
+  <h3 align="center">MY Social Network Account</h3>
   <br>
   <a href="https://www.youtube.com/@YoonjeKang" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" alt="Youtube" />
