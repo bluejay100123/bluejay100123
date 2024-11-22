@@ -93,7 +93,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=bluejay100123&show_icons=true&theme=radical" alt="YoonJe's GitHub stats">
   </a>
   <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&count_bg=%23F5A2A2&title_bg=%23CDC2C2&icon=github.svg&icon_color=F5A2A2&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbluejay100123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
   <br>
   <br>
