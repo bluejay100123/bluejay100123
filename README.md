@@ -40,12 +40,12 @@
 <a href="https://github.com/bluejay100123" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@bluejay100123-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="https://github.com/bluejay100123" target="_blank"><img alt="bluejay100123" src="https://badges.pufler.dev/visits/bluejay100123/bluejay100123?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 <a href="https://github.com/bluejay100123/bluejay100123" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/bluejay100123/bluejay100123?label=profile%20updated&style=flat-square"></a>
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺
-
-👉<a href="https://buymeacoffee.com/bluejay100" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>👈
-
-
+<p align="center">
+  <h3>
+    If you like what I do, maybe consider buying me a coffee/tea 🥺
+  </h3>h3>
+  👉<a href="https://buymeacoffee.com/bluejay100" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>👈
+</p>
 
 
 <!--
