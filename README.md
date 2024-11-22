@@ -37,10 +37,12 @@
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoonje-kang123"/>
 </p>
 
-<a href="https://github.com/bluejay100123" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@bluejay100123-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-<a href="https://github.com/bluejay100123" target="_blank"><img alt="bluejay100123" src="https://badges.pufler.dev/visits/bluejay100123/bluejay100123?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-<a href="https://github.com/bluejay100123/bluejay100123" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/bluejay100123/bluejay100123?label=profile%20updated&style=flat-square"></a>
 <h3 align="center">
+  <a href="https://github.com/bluejay100123" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@bluejay100123-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+  <a href="https://github.com/bluejay100123" target="_blank"><img alt="bluejay100123" src="https://badges.pufler.dev/visits/bluejay100123/bluejay100123?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+  <a href="https://github.com/bluejay100123/bluejay100123" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/bluejay100123/bluejay100123?label=profile%20updated&style=flat-square"></a>
+  <br>
+  <br>
   If you like what I do, maybe consider buying me a coffee/tea 🥺
   <br>
   <br>
