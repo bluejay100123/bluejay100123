@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoonjekang123@gmail.com)](mailto:yoonjekang123@gmail.com)
--    SNS [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@YoonjeKang)](https://www.youtube.com/@YoonjeKang) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoonje-kang123)](https://www.linkedin.com/in/yoonje-kang123)
+- 🔗 SNS [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@YoonjeKang)](https://www.youtube.com/@YoonjeKang) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoonje-kang123)](https://www.linkedin.com/in/yoonje-kang123)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺
 
