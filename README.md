@@ -2,6 +2,7 @@
 <p align="center">
   <b>🎓 CAU Art&Tech 19th</b>
   <br>
+  <br>
   <b>📈 My Goals</b><br>
   <b> 억만장자 되기 </b><br>
   <b> 탑티어 논문 작성하기 </b><br>
